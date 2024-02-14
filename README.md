@@ -12,7 +12,7 @@ Mimics the UI/UX of Netflix
 Responsive design for various screen sizes
 Uses HTML and CSS only, no JavaScript
 Installation
-Clone this repository to your local machine using git clone https://github.com/your-username/netflix-clone.git
+Clone this repository to your local machine using git clone https://github.com/your-jaiswalradha/netflix-clone.git
 Navigate to the project directory cd netflix-clone
 Usage
 Open the index.html file in your web browser.
