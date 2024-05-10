@@ -5,7 +5,6 @@ Table of Contents
 Features
 Installation
 Usage
-Credits
 
 Features
 Mimics the UI/UX of Netflix
@@ -17,6 +16,5 @@ Navigate to the project directory cd netflix-clone
 Usage
 Open the index.html file in your web browser.
 Explore the Netflix clone interface.
-Credits
-This project was created by [Radha jaiswal].
+
 
